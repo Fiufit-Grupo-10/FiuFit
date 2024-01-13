@@ -16,3 +16,5 @@ Plataforma digital que permite a los usuarios realizar un seguimiento de sus ent
 
 
 
+## Arquitectura 
+![Diagrama de arquitectura](./images/diagrama.png)
